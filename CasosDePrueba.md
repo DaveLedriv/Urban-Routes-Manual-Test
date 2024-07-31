@@ -1,5 +1,7 @@
 # Casos de Prueba
 
+## [Casos de prueba en Google Sheets](https://docs.google.com/spreadsheets/d/15xFU5RRDqvDir1Zi-TJ2CQpVB_ZR88Py/edit?usp=sharing&ouid=112670958619645052421&rtpof=true&sd=true)
+
 ## Índice
 1. [Introducción](#introducción)
 2. [Casos de Prueba para la Funcionalidad de Métodos de Pago](#casos-de-prueba-para-la-funcionalidad-de-métodos-de-pago)
@@ -9,7 +11,7 @@
 6. [Criterios de Aceptación](#criterios-de-aceptación)
 7. [Recursos Necesarios](#recursos-necesarios)
 8. [Responsable de las Pruebas](#responsable-de-las-pruebas)
-9. [Fecha de Ejecución](#fecha-de-ejecución)
+
 
 ## Introducción
 Este documento detalla los casos de prueba diseñados para validar las funcionalidades del sistema relacionado con los métodos de pago, la lógica del botón de reserva, la lógica de los campos "Desde" y "Hasta", y la integración de nuevos modos de transporte. Cada caso de prueba incluye una descripción, datos de prueba y resultados esperados para garantizar la calidad y funcionalidad del sistema.
