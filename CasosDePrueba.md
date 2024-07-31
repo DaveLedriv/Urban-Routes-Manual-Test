@@ -258,10 +258,7 @@ Este documento detalla los casos de prueba diseñados para validar las funcional
 
 ## Responsable de las Pruebas
 - Nombre: David Elías Ledesma Rivera
-- Contacto: [Tu Correo Electrónico]
 
-## Fecha de Ejecución
-- Fecha: [Fecha de Ejecución]
 
 ---
 
