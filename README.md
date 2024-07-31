@@ -24,7 +24,7 @@ Los Casos de Prueba documentan las pruebas específicas realizadas para verifica
 ## Reporte de Incidencias
 El Reporte de Incidencias proporciona un formato estandarizado para registrar, rastrear y resolver problemas encontrados durante las pruebas.
 
-### [Reporte de Incidencias](./ReporteDeIncidencias.md)
+### [Reporte de Incidencias](https://drive.google.com/file/d/1PFLqAbmcKHRQY1ycKpqpi0jtdtpCNWOv/view?usp=sharing)
 
 ## Contribuciones
 Las contribuciones al proyecto son bienvenidas. Si encuentras errores o deseas mejorar el proyecto, por favor sigue los siguientes pasos:
