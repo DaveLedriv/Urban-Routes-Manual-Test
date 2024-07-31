@@ -19,6 +19,7 @@ El Plan de Pruebas detalla la estrategia general para la validación del sistema
 Los Casos de Prueba documentan las pruebas específicas realizadas para verificar la funcionalidad del sistema. Cada caso de prueba incluye una descripción, datos de prueba y resultados esperados.
 
 ### [Casos de Prueba](./CasosDePrueba.md)
+### [Casos de Prueba en Google Sheets](https://docs.google.com/spreadsheets/d/15xFU5RRDqvDir1Zi-TJ2CQpVB_ZR88Py/edit?usp=sharing&ouid=112670958619645052421&rtpof=true&sd=true)
 
 ## Reporte de Incidencias
 El Reporte de Incidencias proporciona un formato estandarizado para registrar, rastrear y resolver problemas encontrados durante las pruebas.
